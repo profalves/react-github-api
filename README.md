@@ -8,7 +8,7 @@ Download or clone repository, run "yarn" or "npm install" to install all depende
 
 ## Technologies
 
-This application was developed in ReactJs. It uses Axios to manage API connection and Styled Components for managing CSS.
+This application was developed in ReactJs and powered by Typescrypt. It uses Axios to manage API connection and Styled Components for managing CSS.
 
 * [Styled Components](https://styled-components.com/)
 * [Axios](https://github.com/axios/axios)
